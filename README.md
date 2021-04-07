@@ -9,4 +9,5 @@ This code quantifies the fluoresent intensity of bacteria within biofilm after t
 * Python 3
 * Numpy
 * Matplotlib
+* Scikit-image
 * [nd2reader](https://rbnvrw.github.io/nd2reader/)
